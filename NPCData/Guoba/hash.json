@@ -2,7 +2,7 @@
     {
         "component_name": "",
         "root_vs": "653c63ba4a73ca8b",
-        "draw_vb": "0c7e3438",
+        "draw_vb": "7d43358a",
         "position_vb": "862aec78",
         "blend_vb": "5e3c9cd5",
         "texcoord_vb": "ad52856b",
@@ -23,20 +23,20 @@
                 [
                     "LightMap",
                     ".dds",
-                    "ca5ae530"
-                ],
-                [
-                    "DiffuseGuide",
-                    ".dds",
-                    "96ffe1ad"
+                    "ba6a810c"
                 ],
                 [
                     "ShadowRamp",
+                    ".jpg",
+                    "7eb5b84e"
+                ],
+                [
+                    "MetalMap",
                     ".jpg",
                     "59cd2559"
                 ]
             ]
         ],
-        "first_vs": "7494a6d4010b8dec"
+        "first_vs": "ca5af302b8888dbb"
     }
 ]
